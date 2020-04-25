@@ -9,3 +9,6 @@ Hand-coded linear regression on toy dataset
 
 Hand-coded logistic regression on toy dataset
 
+## [Underfit vs fit vs overfit](underfit_overfit.ipynb)
+
+Training different degrees polynomial models on a same model to compare bias and variance
