@@ -20,3 +20,7 @@ Training different degree polynomial models on the same dataset to compare bias 
 ## [L1 regularization](l1_regularization.ipynb)
 
 Polynomial regression with L1_regularization on a toy dataset
+
+## [Perceptron](perceptron.ipynb)
+
+Hand-coded perceptron on XOR-shaped toy dataset
