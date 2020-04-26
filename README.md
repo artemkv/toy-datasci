@@ -1,5 +1,5 @@
 # toy-datasci
-Data science algorithms on toy datasets
+Machine learning algorithms on toy datasets
 
 ## [Linear regression](linear_regression.ipynb)
 
