@@ -28,3 +28,7 @@ Hand-coded perceptron on XOR-shaped toy dataset
 ## [k-means](k_means.ipynb)
 
 Hand-coded k-means clustering on a toy dataset
+
+## [PCA](pca.ipynb)
+
+Hand-coded PCA algorithm for dimensionality reduction on a toy dataset
