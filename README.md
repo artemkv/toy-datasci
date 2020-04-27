@@ -24,3 +24,7 @@ Polynomial regression with L1_regularization on a toy dataset
 ## [Perceptron](perceptron.ipynb)
 
 Hand-coded perceptron on XOR-shaped toy dataset
+
+## [k-means](k_means.ipynb)
+
+Hand-coded k-means clustering on a toy dataset
