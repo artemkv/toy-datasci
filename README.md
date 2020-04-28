@@ -32,3 +32,7 @@ Hand-coded k-means clustering on a toy dataset
 ## [PCA](pca.ipynb)
 
 Hand-coded PCA algorithm for dimensionality reduction on a toy dataset
+
+## [Feed-forward neural network](feed_forward_neural_network.ipynb)
+
+Hand-coded feed-forward neural network a toy dataset
