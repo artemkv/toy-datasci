@@ -37,13 +37,21 @@ Polynomial regression with L1_regularization on a toy dataset
 
 Hand-coded perceptron on XOR-shaped toy dataset
 
+![First layer](/img/perceptron_first_layer.png)
+![Second layer](/img/perceptron_second_layer.png)
+
 ## [k-means](k_means.ipynb)
 
 Hand-coded k-means clustering on a toy dataset
 
+![k means](/img/k_means.png)
+
 ## [PCA](pca.ipynb)
 
 Hand-coded PCA algorithm for dimensionality reduction on a toy dataset
+
+![Before PCA](/img/pca_before.png)
+![After PCA](/img/pca_after.png)
 
 ## [Feed-forward neural network](feed_forward_neural_network.ipynb)
 
