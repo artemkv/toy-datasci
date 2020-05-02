@@ -23,9 +23,15 @@ Hand-coded logistic regression using second degree polynomial on a toy dataset
 
 Training different degree polynomial models on the same dataset to compare bias and variance
 
+![Underfit](/img/underfitting.png)
+![Fit](/img/fitting.png)
+
 ## [L1 regularization](l1_regularization.ipynb)
 
 Polynomial regression with L1_regularization on a toy dataset
+
+![No regularization](/img/no_regularization.png)
+![Regularization](/img/regularization.png)
 
 ## [Perceptron](perceptron.ipynb)
 
