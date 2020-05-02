@@ -36,3 +36,7 @@ Hand-coded PCA algorithm for dimensionality reduction on a toy dataset
 ## [Feed-forward neural network](feed_forward_neural_network.ipynb)
 
 Hand-coded feed-forward neural network a toy dataset
+
+## [Reinforcement learning](reinforcement_learning.ipynb)
+
+Hand-coded value iteration algorithm on a toy dataset
